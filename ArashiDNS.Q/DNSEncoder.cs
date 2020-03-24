@@ -3,7 +3,7 @@ using ARSoft.Tools.Net.Dns;
 
 namespace ArashiDNS
 {
-    class DNSEncoder
+    public class DNSEncoder
     {
         private static MethodInfo info;
 

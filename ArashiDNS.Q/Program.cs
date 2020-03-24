@@ -39,8 +39,7 @@ namespace ArashiDNS.Q
                         bgWorker.RunWorkerAsync();
                     }
                 };
-            };
-            
+            }
         }
     }
 }
