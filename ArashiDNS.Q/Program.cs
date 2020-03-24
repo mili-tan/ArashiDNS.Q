@@ -2,9 +2,7 @@
 using System.ComponentModel;
 using System.Net;
 using QuicNet;
-using System.Text;
 using ARSoft.Tools.Net.Dns;
-using QuicNet.Connections;
 
 namespace ArashiDNS.Q
 {
